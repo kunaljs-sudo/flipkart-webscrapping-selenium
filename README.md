@@ -16,3 +16,14 @@ The mongoDBOperations.py :
 The RepositoryForObject.py file:
   This file contains all the Classes, XPath, ID of the HTML tags on flipkart website necessary to lookup so as to 
   gather the information from the flipkart.com website and apply some processing on it get get the productive output
+
+
+The requirements.txt file:
+  This contains all the required python libraries required in order to run the app
+ 
+ The properties.txt file:
+  This file consist of just a single line for logger.py file import
+  whether to log in 'DEBUG' or 'INFO' mode
+  
+ The logger_class.py file:
+  This file handles and maintains the logger work done ein the application by saving the iformation of log in it
